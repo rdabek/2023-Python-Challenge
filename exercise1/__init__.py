@@ -21,6 +21,6 @@ f.re = 3
 f.im = 3
 
 print("Exercise 1:")
-print("Is a < b? Ans: " + str(a.isLower(b)) + "\n")
-print("Is c < d? Ans: " + str(c.isLower(d)) + "\n")
+print("Is a < b? Ans: " + str(a.isLower(b)))
+print("Is c < d? Ans: " + str(c.isLower(d)))
 print("Is e < f? Ans: " + str(e.isLower(f)))
