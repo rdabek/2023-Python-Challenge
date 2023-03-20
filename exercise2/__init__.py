@@ -1,1 +1,1 @@
-print("Program2")
+print("Exercise 2:")
