@@ -16,7 +16,6 @@ class ccy(object):
             elif currency is "JPY":
                 return 140.6
         
-        retValue: float = 0
         if Self.currency is not "EUR":
             retValue = Self.value / currencyToEuro(Self.currency)
         else:
